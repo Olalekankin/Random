@@ -62,7 +62,7 @@ const Participant = () => {
               className='rounded-3xl object-cover w-full h-full'
             />
             <div className='absolute z-20 bg-black rounded-full py-1 px-2.5 flex space-x-2 items-center bottom-4 left-3'>
-              <p className='text-white'>Akanji J</p>
+              <p className='text-white'>Benita O</p>
               <LuWifi className='text-base text-primary' />
             </div>
           </div>
@@ -73,7 +73,7 @@ const Participant = () => {
               className='rounded-3xl object-cover w-full h-full'
             />
             <div className='absolute z-20 bg-black rounded-full py-1 px-2.5 flex space-x-2 items-center bottom-4 left-3'>
-              <p className='text-white'>Akanji J</p>
+              <p className='text-white'>Lawrence T</p>
               <LuWifi className='text-base text-primary' />
             </div>
           </div>
